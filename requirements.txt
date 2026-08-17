@@ -1,2 +1,6 @@
 streamlit
 fpdf2
+gspread
+google-auth
+qrcode
+pillow
